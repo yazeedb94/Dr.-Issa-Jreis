@@ -25,7 +25,7 @@ const About = () => {
       title: language === 'ar' ? 'استشاري طب وجراحة العيون' : 'Ophthalmology consultant',
       specialization: language === 'ar' ? 'رعاية عيون الأطفال' : 'Pediatric Eye Care',
       experience: language === 'ar' ? '30 سنة' : '30 years',
-      image: 'https://scontent.famm7-1.fna.fbcdn.net/v/t39.30808-6/305926662_566841695242462_1727875579233748628_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFm-Xb9XSIyWSov2IK8ilatUuBDS9Jo3p5S4ENL0mjentIkxVnZnBdFma9jipJNvIIGMdXiTCMt_YurbeYOhIAG&_nc_ohc=NfT7K5Kas2oQ7kNvwExHuLx&_nc_oc=AdmpqosJ3IsIi4GKqcnWtWxfnI4GPx04mjSR7TVhISoo2jnP1-MWLgcKY4rPjfU0dBg&_nc_zt=23&_nc_ht=scontent.famm7-1.fna&_nc_gid=eLWHlObUf8dlcRdNk8i4QA&oh=00_AfNg_fu1L4Q1VpAtu-Fir-VfGfHOdXFQSgNs8S1z-0Eqnw&oe=68608998'
+      image: 'https://scontent.famm7-1.fna.fbcdn.net/v/t39.30808-6/434412222_440188378397077_6281681687372519298_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGqX16ZjsBIewyPpE8D19pcYDNjZ-tfVipgM2Nn619WKhdVpMUxgmB0Fwz8aRqtuMycrT6Kotd5u04z2R0AJ0B-&_nc_ohc=X3TFyGc4FuQQ7kNvwFtzjys&_nc_oc=Adne_RDNRp8ZaculYroJjLpek4U7kJttjhJO6APSOGHF-eDzIXdBZXkXAkp7aeEEsEQ&_nc_zt=23&_nc_ht=scontent.famm7-1.fna&_nc_gid=5FkZKo4UVUlOKWKcDQh0CQ&oh=00_AfOsnYhyKANym2T8t9jA5u35-jDSUUEuaw0YR5cE0h0vPQ&oe=6861E08F'
     }, 
     {
       name: language === 'ar' ? '' : '',
