@@ -31,13 +31,13 @@ const Contact = () => {
     {
       icon: MapPin,
       title: t('location'),
-      details: ['Pr. Hasan St., Irbid', 'XWG5+28F, Amman', 'عمان، دوار الداخلية، المستشفى الاردني الفنلندي', 'اربد، مقابل مستشفى ابن النفيس، مجمع ابو حشمة'],
+      details: ['الفحيص - القيصر بلازا - الطابق الأول, Fuheis, Jordan'],
       color: 'text-blue-600 dark:text-blue-400'
     },
     {
       icon: Phone,
       title: t('phone'),
-      details: ['Mobile: 0795576240','Mobile: 0798719009', 'Tel: 064652822','whatsapp: 0795576240'],
+      details: ['Mobile: 0791012450', 'whatsapp: 0791012450'],
       color: 'text-teal-600 dark:text-teal-400'
     },
     {
@@ -164,7 +164,7 @@ const Contact = () => {
                       value={formData.phone}
                       onChange={handleInputChange}
                       className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-colors duration-200 bg-white dark:bg-gray-800 text-gray-900 dark:text-white"
-                      placeholder="0795576240"
+                      placeholder="0791012450"
                     />
                   </div>
                 </div>

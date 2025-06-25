@@ -21,7 +21,7 @@ const About = () => {
       image: ''
     }, 
     {
-      name: language === 'ar' ? 'د. فريد كنعان' : 'Dr. Farid Kana`an',
+      name: language === 'ar' ? 'الدكتور عيسى جريس' : 'Dr. Issa Jreis',
       title: language === 'ar' ? 'استشاري طب وجراحة العيون' : 'Ophthalmology consultant',
       specialization: language === 'ar' ? 'رعاية عيون الأطفال' : 'Pediatric Eye Care',
       experience: language === 'ar' ? '30 سنة' : '30 years',

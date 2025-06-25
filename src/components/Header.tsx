@@ -34,7 +34,7 @@ const Header = () => {
               <Eye className="h-6 w-6 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900 dark:text-white">د. فريد كنعان </h1>
+              <h1 className="text-xl font-bold text-gray-900 dark:text-white">الدكتور عيسى جريس </h1>
               <p className="text-xs text-gray-600 dark:text-gray-400">
                 {language === 'ar' ? 'عيادة العيون ' : 'Eye Clinic'}
               </p>
@@ -92,11 +92,11 @@ const Header = () => {
 
             {/* Contact Button */}
             <a
-              href="tel:+962795576240"
+              href="tel:+962791012450"
               className="hidden sm:flex items-center space-x-2 rtl:space-x-reverse bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200"
             >
               <Phone className="h-4 w-4" />
-              <span className="font-medium">0795576240</span>
+              <span className="font-medium">0791012450</span>
             </a>
 
             {/* Mobile menu button */}
@@ -138,11 +138,11 @@ const Header = () => {
                 {t('contact')}
               </button>
               <a
-                href="tel:+962795850022"
+                href="tel:+962791012450"
                 className="flex items-center space-x-2 rtl:space-x-reverse bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 w-fit"
               >
                 <Phone className="h-4 w-4" />
-                <span className="font-medium">0795576240</span>
+                <span className="font-medium">0791012450</span>
               </a>
             </nav>
           </div>

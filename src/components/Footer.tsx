@@ -23,7 +23,7 @@ const Footer = () => {
                 <Eye className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h3 className="text-xl font-bold">د. فريد كنعان</h3>
+                <h3 className="text-xl font-bold">الدكتور عيسى جريس</h3>
                 <p className="text-sm text-gray-400">
                   {language === 'ar' ? 'عيادة العيون' : 'Eye Clinic'}
                 </p>
@@ -114,8 +114,8 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-blue-400 flex-shrink-0" />
-                <a href="tel:+962795850022" className="text-gray-400 hover:text-white transition-colors duration-200 text-sm">
-                  0795576240
+                <a href="tel:+962791012450" className="text-gray-400 hover:text-white transition-colors duration-200 text-sm">
+                  0791012450
                 </a>
               </div>
               <div className="flex items-center space-x-3">

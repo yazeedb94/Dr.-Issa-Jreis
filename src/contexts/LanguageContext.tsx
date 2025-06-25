@@ -64,23 +64,11 @@ const translations = {
     patientRating: 'Patient Rating',
     
     commitmentTitle: 'Our Commitment to Your Vision',
-    commitmentText1: `The Eye Center – Dr. Fareed Kanaan was established as a leading destination for advanced eye care, built upon extensive experience and distinguished academic and clinical expertise in the field of ophthalmology and eye surgery.
+    commitmentText1: `The Eye Center – Dr. Issa Jreiss was established as a leading destination for advanced eye care, built upon strong academic qualifications and distinguished expertise in the field of ophthalmology and eye surgery.
 
-The center is led by Dr. Fareed Kanaan, Consultant Ophthalmologist, Fellow of the Royal College of Ophthalmologists (UK), and holder of a Master’s degree in Ophthalmology.
-Dr. Fareed previously served as Professor and Head of the Ophthalmology Department at Jordan University of Science and Technology, and has also worked in numerous other clinics and medical centers.`,
-    commitmentText2: `Dr. Fareed has over 30 years of experience in the field, giving him exceptional skill in diagnosing and treating a wide range of eye conditions, including:
-
-    Cataract surgery and phacoemulsification,
-
-    Corneal procedures,
-
-    Vision correction (LASIK, Laser, PRK),
-
-    Retinal surgeries,
-
-    Eyelid surgeries,
-
-Dr. Fareed currently practices at his private clinic located in the city of Irbid, where he continues to provide advanced and trusted eye care to his patients.`,
+The center is led by Dr. Issa Jreiss, Specialist in Ophthalmology and Eye Surgery. He holds a Bachelor’s degree in Medicine and Surgery from the University of Jordan and completed his specialization in ophthalmology at Jordan University Hospital.
+Dr. Issa holds the Jordanian Board in Ophthalmology, is a member of the Royal College of Surgeons in Edinburgh, and a Fellow of the International Council of Ophthalmology.`,
+    commitmentText2: `The center is committed to providing comprehensive care using the latest technologies, with a focus on quality and personalized attention to each patient.`,
     
     boardCertified: 'Board-certified ophthalmologists',
     sameDayAppointments: 'Same-day appointments available',
@@ -112,13 +100,13 @@ Dr. Fareed currently practices at his private clinic located in the city of Irbi
     contactConfirmation: 'We\'ll contact you within 24 hours to confirm your appointment.',
     
     // Footer
-    footerDescription: 'Delivering advanced eye care with expert hands and international standards, led by Dr. Farid Kana`an.',
+    footerDescription: 'Delivering advanced eye care with expert hands and international standards, led by Dr. Issa Jreis.',
     quickLinks: 'Quick Links',
     contactInfo: 'Contact Info',
     privacyPolicy: 'Privacy Policy',
     termsOfService: 'Terms of Service',
     hipaaNotice: 'HIPAA Notice',
-    allRightsReserved: '© 2025 Dr. Farid Kana`an Eye Clinic. All rights reserved.',
+    allRightsReserved: '© 2025 Dr. Issa Jreis Eye Clinic. All rights reserved.',
     
     // Service Details
     backToServices: 'Back to Services',
@@ -184,22 +172,11 @@ Dr. Fareed currently practices at his private clinic located in the city of Irbi
     patientRating: 'تقييم المرضى',
     
     commitmentTitle: 'التزامنا برؤيتك',
-    commitmentText1: `تأسس مركز العيون - الدكتور فريد كنعان ليكون وجهة متقدمة في رعاية العيون، مستندًا إلى خبرة طويلة وتميّز علمي وعملي في مجال طب وجراحة العيون.
-يقود المركز الدكتور فريد كنعان، استشاري طب وجراحة العيون، وزميل كلية جراحي العيون الملكية البريطانية، والحاصل على شهادة الماجستير في طب العيون.
-شغل الدكتور فريد سابقًا منصب أستاذ ورئيس قسم العيون في جامعة العلوم والتكنولوجيا، كما عمل في العديد من العيادات والمراكز الطبية الأخرى.`,
-    commitmentText2: `يمتلك الدكتور فريد خبرة تزيد عن 30 عامًا في هذا المجال، مما منحه مهارة عالية في تشخيص وعلاج مجموعة واسعة من أمراض العيون، ويشمل ذلك:
+    commitmentText1: `تأسس مركز العيون - الدكتور عيسى جريس ليكون وجهة متقدمة في رعاية العيون، مرتكزًا على تأهيل علمي عالٍ وخبرة متميزة في مجال طب وجراحة العيون.
 
-    جراحة الساد وسحب الماء الأبيض بتقنية الفاكو,
-
-    عمليات القرنية,
-
-    تصحيح النظر, (الليزك، الليزر، PRK)
-
-    عمليات الشبكية,
-
-    جراحات جفن العين,
-
-يعمل الدكتور فريد حاليًا في عيادته الخاصة الواقعة في مدينة إربد، حيث يواصل تقديم رعاية متقدمة وموثوقة لمرضاه.`,
+يقود المركز الدكتور عيسى جريس، أخصائي طب وجراحة العيون، حاصل على بكالوريوس الطب والجراحة من الجامعة الأردنية، ومتخصص في طب وجراحة العيون من مستشفى الجامعة الأردنية.
+يحمل الدكتور عيسى البورد الأردني في طب وجراحة العيون، وهو عضو كلية الجراحين الملكية في إدنبرة، وزميل المجلس الدولي لطب العيون.`,
+    commitmentText2: `يهدف المركز إلى تقديم رعاية متكاملة باستخدام أحدث التقنيات، مع التركيز على الجودة والاهتمام الشخصي بكل مريض.`,
     
     boardCertified: 'أطباء عيون معتمدون',
     sameDayAppointments: 'مواعيد في نفس اليوم متاحة',
@@ -231,13 +208,13 @@ Dr. Fareed currently practices at his private clinic located in the city of Irbi
     contactConfirmation: 'سنتصل بك خلال 24 ساعة لتأكيد موعدك.',
     
     // Footer
-    footerDescription: 'نقدّم رعاية عيون متقدمة بقيادة الدكتور فريد كنعان، بمعايير عالمية وخبرة متميزة.',
+    footerDescription: 'نقدّم رعاية عيون متقدمة بقيادة الدكتور عيسى جريس، بمعايير عالمية وخبرة متميزة.',
     quickLinks: 'روابط سريعة',
     contactInfo: 'معلومات الاتصال',
     privacyPolicy: 'سياسة الخصوصية',
     termsOfService: 'شروط الخدمة',
     hipaaNotice: 'إشعار HIPAA',
-    allRightsReserved: '© 2025 عيادة د. فريد كنعان للعيون. جميع الحقوق محفوظة.',
+    allRightsReserved: '© 2025 عيادة الدكتور عيسى جريس للعيون. جميع الحقوق محفوظة.',
     
     // Service Details
     backToServices: 'العودة للخدمات',
